@@ -14,6 +14,6 @@ def is_unique(int1,int2,int3):
     return ans
 
 
-go = is_unique(int1 = int(input('Enter a number: ')), int2 = int(input('Enter a number: ')), int3 = int(input('Enter a number: ')))
-print(go)
+#go = is_unique(int1 = int(input('Enter a number: ')), int2 = int(input('Enter a number: ')), int3 = int(input('Enter a number: ')))
+#print(go)
 
